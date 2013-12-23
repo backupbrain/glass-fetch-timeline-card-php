@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1790/www/glassware/bitcointicker/classes
+END
+HttpPost.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1787/www/glassware/bitcointicker/classes/HttpPost.class.php
+END
+Google_Contact.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1787/www/glassware/bitcointicker/classes/Google_Contact.class.php
+END
+Google_Timeline_Item_Attachment.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1787/www/glassware/bitcointicker/classes/Google_Timeline_Item_Attachment.class.php
+END
+Google_Menu_Item_Value.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1789/www/glassware/bitcointicker/classes/Google_Menu_Item_Value.class.php
+END
+Google_Menu_Item.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1787/www/glassware/bitcointicker/classes/Google_Menu_Item.class.php
+END
+Google_OAuth2.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1758/www/glassware/bitcointicker/classes/Google_OAuth2.class.php
+END
+Google_OAuth2_Token.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1758/www/glassware/bitcointicker/classes/Google_OAuth2_Token.class.php
+END
+Google_Timeline_Item.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1796/www/glassware/bitcointicker/classes/Google_Timeline_Item.class.php
+END
+Google_Notification.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1787/www/glassware/bitcointicker/classes/Google_Notification.class.php
+END
+Google_Timeline.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1790/www/glassware/bitcointicker/classes/Google_Timeline.class.php
+END
+Google_Location.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1787/www/glassware/bitcointicker/classes/Google_Location.class.php
+END
